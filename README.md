@@ -16,6 +16,8 @@ Each notebook is a mini project that explores various analytical techniques usin
 | `task2.ipynb` | 📊 Exploratory Data Visualization | Histograms, bar charts, pie charts, correlation matrix |
 | `task3.ipynb` | 🗺️ GeoData Analysis | Plotting states/cities using GeoPandas |
 | `task4.ipynb` | 🔥 Interactive Mapping | HeatMaps using Folium & plugins |
+|`task5.ipynb`  | 📍 Location-Based Filtering  | Creating maps with location constraints, zoom control, custom map layers |
+| `task6.ipynb`  | 📌 Marker-Based Visualization | Adding markers, popups, clustered markers on interactive maps |
 
 ---
 
