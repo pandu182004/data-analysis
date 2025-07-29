@@ -33,6 +33,8 @@ This project is structured as a collection of focused tasks
 ---
 
 💡 Key Insights
+
+
 Most restaurants have ratings between 3.0 and 4.5
 
 North Indian and Fast Food are among the most popular cuisines
@@ -45,6 +47,7 @@ Major chains follow predictable trends in location and ratings
 
 
 📎 Why This Project?
+
 This project demonstrates practical skills in:
 
 Real-world data cleaning and exploration
