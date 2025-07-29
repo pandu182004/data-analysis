@@ -7,17 +7,18 @@ This repository is a curated collection of real-world data analysis tasks I comp
 Each notebook is a mini project that explores various analytical techniques using **Python**, with a special focus on **EDA**, **visual storytelling**, and **geospatial insights**.
 
 ---
+📚 What's Inside?
+This project is structured as a collection of focused tasks
 
-## 🧩 What's Inside?
-
-| 📁 Notebook | 🔍 Focus Area | 📌 Techniques |
-|------------|---------------|----------------|
-| `task1.ipynb` | 🔎 Data Understanding & Cleaning | Null analysis, dtype checks, handling missing data |
-| `task2.ipynb` | 📊 Exploratory Data Visualization | Histograms, bar charts, pie charts, correlation matrix |
-| `task3.ipynb` | 🗺️ GeoData Analysis | Plotting states/cities using GeoPandas |
-| `task4.ipynb` | 🔥 Interactive Mapping | HeatMaps using Folium & plugins |
-|`task5.ipynb`  | 📍 Location-Based Filtering  | Creating maps with location constraints, zoom control, custom map layers |
-| `task6.ipynb`  | 📌 Marker-Based Visualization | Adding markers, popups, clustered markers on interactive maps |
+| Task          | Description                                              |
+| ------------- | -------------------------------------------------------- |
+| `task1.ipynb` | 📊 Overview of restaurant ratings distribution           |
+| `task2.ipynb` | 🍽️ Analysis of top cuisines and cuisine combinations    |
+| `task3.ipynb` | 🚚 Impact of online delivery on customer ratings         |
+| `task4.ipynb` | 🌍 City-wise average ratings and best-performing regions |
+| `task5.ipynb` | 🏬 Analysis of restaurant chains and their patterns      |
+| `task6.ipynb` | 📌 Country-wise comparison and visual trends             |
+| `task7.ipynb` | 📈 Summary visualizations for final insights             |
 
 ---
 
@@ -28,15 +29,27 @@ Each notebook is a mini project that explores various analytical techniques usin
 - `pandas` – data manipulation  
 - `numpy` – numerical calculations  
 - `matplotlib` & `seaborn` – visual storytelling  
-- `geopandas` – spatial data representation  
-- `folium` – interactive leaflet maps  
-- `jupyter notebook` – all-in-one notebook interface
 
 ---
 
-## 🌟 Key Highlights
+💡 Key Insights
+Most restaurants have ratings between 3.0 and 4.5
 
-✅ Cleaned and preprocessed real datasets  
-✅ Built insightful visualizations (charts & geospatial maps)  
-✅ Created interactive HeatMaps using Folium  
-✅ Applied storytelling techniques for business impact
+North Indian and Fast Food are among the most popular cuisines
+
+Online delivery availability slightly impacts average customer satisfaction
+
+Cities like Gurgaon, Bangalore, and New Delhi top the charts in average ratings
+
+Major chains follow predictable trends in location and ratings
+
+
+📎 Why This Project?
+This project demonstrates practical skills in:
+
+Real-world data cleaning and exploration
+
+Drawing meaningful conclusions from messy datasets
+
+Visualizing complex trends in simple, beautiful plots
+
